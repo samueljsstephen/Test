@@ -18,6 +18,8 @@ int main(int argc, char **argv)
 	tesseract::TessBaseAPI tess;
 	int start, stop, time;
 	
+	// Add some code to test idea 1
+	
 	
 	// Set camera params
 	Camera.set(CV_CAP_PROP_FORMAT, CV_8UC3);
